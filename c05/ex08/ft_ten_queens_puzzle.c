@@ -6,12 +6,11 @@
 /*   By: hyunklee <hyunklee@student.42seoul.kr>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/10 05:30:40 by hyunklee          #+#    #+#             */
-/*   Updated: 2021/04/10 05:40:35 by hyunklee         ###   ########.fr       */
+/*   Updated: 2021/04/11 03:54:40 by hyunklee         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 
-#define  _CRT_SECURE_NO_WARNINGS
 #include <unistd.h>
 
 char g_board[10][10];
